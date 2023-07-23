@@ -1,4 +1,3 @@
-//260abbb6bf864d41577d4e0db08376eb
 import './App.css';
 // import '../public/icons8-partly-cloudy-day.gif'
 import { useState } from 'react';
